@@ -1,3 +1,5 @@
+>closed in https://github.com/snowpackjs/astro/issues/1263 after migration from snowpack to vitejs
+
 # astro-firebase-bug-reproduction
 
 This repo is a reproduction of a bug when using Firebase JS SDK (v9) with [astro](https://astro.build)
