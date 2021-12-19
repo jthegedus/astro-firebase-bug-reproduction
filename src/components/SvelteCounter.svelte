@@ -1,7 +1,4 @@
 <script>
-  import { initializeApp, getApps } from "firebase/app";
-  // import { getFirestore, doc, onSnapshot, setDoc } from "firebase/firestore";
-
   let count = 0;
 
   function add() {
